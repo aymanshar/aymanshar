@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help to work in related Data Science projects.
 - 💬 Ask me about any support or technology help If I know, I will help.
 - 📫 How to reach me: aymanshar@gmail.com
-- 😄 Pronouns: I am very exsited to study Data Science.
+- 😄 Pronouns: I am very excited to study Data Science.
 - ⚡ Fun fact: I missed the plan to Paris from Italy transite due to very long way and short time between the 2 flights, I catched the next flight to Paris but unfortunatly I lost my travel bags, I spent 10 days in Paris until Charle degaul lost and found service find my bags.
