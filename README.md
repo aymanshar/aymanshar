@@ -5,10 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working as IT System Administrator on `IDEMIA Identity & Security`.
+- 🔭 I’m currently working as Data scientist and Project Nabager at `Ministry of Interior- Data Analytics Center - UAE`.
 - 🌱 I’m currently learning `Msc in Data science and AI` in DSTI France.
-- 👯 I’m looking to collaborate on Data Science Projects.
-- 🤔 I’m looking for help to work in related Data Science projects.
 - 💬 Ask me about any support or technology help If I know, I will help.
 - 📫 How to reach me: aymanshar@gmail.com
 - 😄 Pronouns: I am very excited to study Data Science.
